@@ -3,8 +3,6 @@ dist/
 release/
 .DS_Store
 *.log
-.env
-.env.local
 *.tsbuildinfo
 .npmrc
 CLAUDE.md
@@ -15,7 +13,6 @@ GEMINI.md
 /.gemini
 /.cc-switch
 /.idea
-/.vscode
 vitest-report.json
 nul
 
@@ -29,3 +26,4 @@ copilot-api
 .history
 CODEBUDDY.md
 mainWindow.js
+config.bat
